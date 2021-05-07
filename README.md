@@ -7,5 +7,5 @@
 
 使用环境变量配置，进行绿化安装
 
-可使用[install_jdk.sh](https://github.com/xiliuya/openjdk11-termux/releases/download/0.1/install_jdk.sh) 一键部署openjdk11。
+可使用[install_jdk.sh](https://github.com/xiliuya/openjdk11-termux/releases/download/0.2/install_jdk.sh) 一键部署openjdk11。
 
