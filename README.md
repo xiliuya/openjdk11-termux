@@ -1,3 +1,9 @@
+目前termux 已支持openjdk-17
+本仓库 已废弃使用
+
+
+
+
 # openjdk11-termux
 提取自jvdriod 绿化安装版openjdk11
 
